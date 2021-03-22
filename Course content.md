@@ -2,7 +2,7 @@
 
 | Section No. | Section Title                          | Number of Lectures | Current Lecture in Progress |
 | ----------- | -------------------------------------- | ------------------ | --------------------------- |
-| 01          | Essentials                             | 2                  | TODO                        |
+| 01          | Essentials                             | 2                  | in-progress                 |
 | 02          | Getting started with Apache            | 4                  | TODO                        |
 | 03          | Directory structure                    | 3                  | TODO                        |
 | 04          | Virtual hosts                          | 2                  | TODO                        |
